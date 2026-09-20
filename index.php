@@ -1,5 +1,5 @@
-<?php 'src/header.php' ?>
+<?php require 'src/header.php' ?>
 
 <h1>Hello, Goodmorning</h1>
 
-<?php 'src/footer.php' ?>
+<?php require 'src/footer.php' ?>
